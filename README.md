@@ -1,3 +1,3 @@
 # VogelTutorials
-Playing with the various tutorials provided by Lars Vogel at
+Playing with the various tutorials provided by vogella at
 http://www.vogella.com/
